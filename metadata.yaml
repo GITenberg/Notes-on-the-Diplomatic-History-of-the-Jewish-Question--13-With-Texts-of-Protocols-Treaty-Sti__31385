@@ -1,0 +1,28 @@
+_repo: Notes-on-the-Diplomatic-History-of-the-Jewish-Question--13-With-Texts-of-Protocols-Treaty-Sti__31385
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolf, Lucien
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '35195'
+    url: http://www.gutenberg.org/2009/agents/35195
+    wikipedia: http://en.wikipedia.org/wiki/Lucien_Wolf
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Restoration'
+- !lcc 'DS'
+title: "Notes on the Diplomatic History of the Jewish Question\r\nWith Texts of Protocols,\
+  \ Treaty Stipulations and Other Public Acts and Official Documents"
+url: http://www.gutenberg.org/ebooks/31385
